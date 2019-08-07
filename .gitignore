@@ -1,0 +1,19 @@
+# ignore npm package
+node_modules/
+
+# use wild card characters, e.g. "xxx.js~"
+*~
+.DS_Store
+
+.git
+CVS
+.svn
+.hg
+.lock-wscript
+.wafpickle-N
+.*.swp
+._*
+npm-debug.log
+.npmrc
+config.gypi
+*.orig
